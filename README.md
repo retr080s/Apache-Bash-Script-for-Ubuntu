@@ -11,7 +11,7 @@ How to install :
 
 ![Screenshot_143](https://user-images.githubusercontent.com/84463361/160252357-707b16ff-4fb1-432e-ae30-c433c07693d5.png)
 
-6. Open up your Browser and type your the ip shown in the script
+6. Open up your Browser and type your ip shown in the script
 
 ![Screenshot_144](https://user-images.githubusercontent.com/84463361/160252481-ce03bed9-6556-43d2-aced-9fd398f0e824.png)
 
